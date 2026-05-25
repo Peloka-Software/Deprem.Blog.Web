@@ -1,1 +1,1 @@
-"# Deprem.Blog.Web" 
+Türkiye'deki deprem farkındalığını artırmak; eğitici rehber içeriklerimiz, acil durum araçlarımızla sizleri ve sevdiklerinizi korumak için çalışıyoruz.
