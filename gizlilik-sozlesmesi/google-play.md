@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # Gizlilik Politikası
 
 Bu gizlilik politikası, `Deprem.Blog Mobil` uygulamasının kişisel verileri nasıl topladığını, kullandığını ve koruduğunu açıklar. Uygulama, Google Play Kural ve Politikalarına uygun olarak hazırlanan bu politika ile kullanıcıların hangi verilere erişildiğini ve bu verilerin hangi amaçlarla işlendiğini şeffaf şekilde sunmayı hedefler.
@@ -7,7 +10,7 @@ Bu gizlilik politikası, `Deprem.Blog Mobil` uygulamasının kişisel verileri n
 
 ## 2. Toplanan Veriler
 ### 2.1. Konum Verisi
-- Uygulama, kullanıcıya yakın şehir/town bilgisini sağlamak ve acil durum durumunda konum paylaşımını desteklemek için GPS tabanlı konum verisi kullanır.
+- Uygulama, kullanıcıya yakın il/ilçe bilgisini sağlamak ve acil durum durumunda konum paylaşımını desteklemek için GPS tabanlı konum verisi kullanır.
 - Konum izni kullanıcıdan açıkça istenir ve kullanıcı izni reddederse uygulama konum tabanlı bazı özellikleri kullanamaz.
 - Konum verisi yalnızca kullanıcı cihazında işlenir. Kullanıcı, konum bilgisini paylaş düğmesine bastığında konum bilgisi harici paylaşım uygulamalarına gönderilebilir.
 
@@ -21,7 +24,7 @@ Bu istekler, uygulamanın içerik sunumu için gereklidir. Uygulama, kullanıcı
 
 ## 3. İzinler
 Uygulama aşağıdaki Android izinlerini kullanır:
-- `INTERNET`: Uzaktan veri almak için kullanılır.
+- `INTERNET`: Uzaktan veri almak için kullanılır. Örneğin: Son depremler.
 - `ACCESS_FINE_LOCATION` ve `ACCESS_COARSE_LOCATION`: Kullanıcının mevcut konumunu almak için gereklidir.
 - `POST_NOTIFICATIONS`: Bildirim gönderebilmek için gereklidir.
 - `VIBRATE`: Uygulama içi bildirim veya uyarılar için kullanılabilir.
@@ -54,6 +57,6 @@ Uygulama kullanıcı verilerini üçüncü taraflarla paylaşmaz.
 ## 8. İletişim
 Politika hakkında sorularınız varsa veya ek bilgi talep ediyorsanız, e-posta adresimizden bize ulaşabilirsiniz:
 
-pelokasoftware@gmail.com
+iletisim@deprem.blog
 
 ---
