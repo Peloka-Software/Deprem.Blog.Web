@@ -1,4 +1,4 @@
-<style>body > div > h1:nth-child(1){display:none}</style>
+<style>body > div > h1:nth-child(1){display:none}body > div > h1:nth-child(2){margin-top:0}</style>
 
 # Gizlilik Politikası
 
