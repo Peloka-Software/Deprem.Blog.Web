@@ -1,3 +1,4 @@
+<style>body>div>h1:nth-child(1){display:none}body>div>h1:nth-child(4){ margin-top:0;}</style>
 # Sorumluluk Reddi Beyanı ve Kullanım Şartları
 
 **Aydınlatma Metni ve Yasal Bilgilendirme**

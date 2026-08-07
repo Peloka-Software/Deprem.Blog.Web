@@ -1,5 +1,4 @@
 <style>body>div>h1:nth-child(1){display:none}body>div>h1:nth-child(4){ margin-top:0;}</style>
-
 # Gizlilik Politikası
 Bu gizlilik politikası, `Deprem.Blog Mobil` uygulamasının kişisel verileri nasıl topladığını, kullandığını ve koruduğunu açıklar. Uygulama, Google Play Kural ve Politikalarına uygun olarak hazırlanan bu politika ile kullanıcıların hangi verilere erişildiğini ve bu verilerin hangi amaçlarla işlendiğini şeffaf şekilde sunmayı hedefler.
 
