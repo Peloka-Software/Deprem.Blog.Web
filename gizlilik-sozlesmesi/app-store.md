@@ -1,6 +1,6 @@
 <style>body>div>h1:nth-child(1){display:none}body>div>h1:nth-child(4){ margin-top:0;}</style>
 # Gizlilik Politikası
-Bu gizlilik politikası, `Deprem.Blog Mobil` uygulamasının kişisel verileri nasıl topladığını, kullandığını ve koruduğunu açıklar. Uygulama, Google Play Kural ve Politikalarına uygun olarak hazırlanan bu politika ile kullanıcıların hangi verilere erişildiğini ve bu verilerin hangi amaçlarla işlendiğini şeffaf şekilde sunmayı hedefler.
+Bu gizlilik politikası, `Deprem.Blog Mobil` uygulamasının kişisel verileri nasıl topladığını, kullandığını ve koruduğunu açıklar. Uygulama, Apple App Store Kural ve Politikalarına uygun olarak hazırlanan bu politika ile kullanıcıların hangi verilere erişildiğini ve bu verilerin hangi amaçlarla işlendiğini şeffaf şekilde sunmayı hedefler.
 
 ## 1. Uygulama Hakkında
 `Deprem.Blog Mobil`, deprem ve acil durum hazırlığına yönelik bilgilendirme, kontrol listeleri, acil durum araçları ve konum desteği sağlayan bir mobil uygulamadır.
@@ -17,15 +17,14 @@ Uygulama, cihazda yalnızca uygulama tercihleri, kullanıcı tarafından oluştu
 ### 2.3. Ağ İle Erişilen İçerik
 Uygulama, deprem verileri ve içerik güncellemeleri için uzak, kamuya açık servislerden veri alır.
 
-Bu istekler, uygulamanın içerik sunumu için gereklidir. Uygulama, kullanıcıya ait kimlik doğrulama bilgisi veya kişisel veri göndermez.
+Bu istekler, uygulamanın içerik sunumu için gereklidir. Uygulama, kullanıcıye ait kimlik doğrulama bilgisi veya kişisel veri göndermez.
 
-## 3. İzinler
-Uygulama aşağıdaki Android izinlerini kullanır:
-- `INTERNET`: Uzaktan veri almak için kullanılır. Örneğin: Son depremler.
-- `ACCESS_FINE_LOCATION` ve `ACCESS_COARSE_LOCATION`: Kullanıcının mevcut konumunu almak için gereklidir.
-- `POST_NOTIFICATIONS`: Bildirim gönderebilmek için gereklidir.
-- `VIBRATE`: Uygulama içi bildirim veya uyarılar için kullanılabilir.
-- `RECEIVE_BOOT_COMPLETED`: Cihaz yeniden başlatıldıktan sonra planlanmış hatırlatıcı bildirimlerini yeniden programlama için gereklidir.
+## 3. İzinler ve Sistem Erişimleri
+Uygulama aşağıdaki sistem erişimlerini kullanır:
+- **İnternet Erişimi:** Uzaktan veri almak için kullanılır. Örneğin: Son depremler.
+- **Konum Erişimi:** Kullanıcının mevcut konumunu almak ve yakın il/ilçe bilgisini hesaplamak için gereklidir.
+- **Bildirimler:** Bildirim gönderebilmek ve acil durum hatırlatıcılarını iletmek için gereklidir.
+- **Arka Plan ve Cihaz Erişimi:** Cihaz yeniden başlatıldıktan sonra planlanmış hatırlatıcı bildirimlerini yeniden programlamak ve uygulama içi uyarılar için kullanılabilir.
 
 ## 4. Verilerin Kullanım Amacı
 Uygulama, toplanan verileri aşağıdaki amaçlarla kullanır:
